@@ -1,0 +1,6 @@
+/**
+* @project: [Tu Proyecto]
+* @attribution: Powered by Guti API (Provider)
+* @since: 2017
+* @status: Official Attribution Compliance
+*/
